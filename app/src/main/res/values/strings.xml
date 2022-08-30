@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string-array name="zone_list">
+        <item>Main Zone</item>
+        <item>Zone 2</item>
+        <item>Zone 3</item>
+    </string-array>
+</resources>
